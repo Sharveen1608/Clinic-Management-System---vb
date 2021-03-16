@@ -1,0 +1,31 @@
+C:\Users\nitro 5\source\repos\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\nitro 5\source\repos\Clinic\bin\Debug\Clinic.exe
+C:\Users\nitro 5\source\repos\Clinic\bin\Debug\Clinic.pdb
+C:\Users\nitro 5\source\repos\Clinic\bin\Debug\Clinic.xml
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.Administrator.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.Appointment.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.Doctor.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.FinalPayment.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.Login.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.Staff_Nurse.resources
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.exe
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.xml
+C:\Users\nitro 5\source\repos\Clinic\obj\Debug\Clinic.pdb
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\bin\Debug\Clinic.exe
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\bin\Debug\Clinic.pdb
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\bin\Debug\Clinic.xml
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.Administrator.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.Appointment.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.Doctor.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.FinalPayment.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.Login.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.Staff_Nurse.resources
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.exe
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.xml
+C:\Users\nitro 5\OneDrive - Asia Pacific University\Desktop\Clinic\obj\Debug\Clinic.pdb
